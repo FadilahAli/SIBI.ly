@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "61999856013",
+    "firebase_url": "https://sibily-default-rtdb.firebaseio.com",
+    "project_id": "sibily",
+    "storage_bucket": "sibily.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61999856013:android:32d4b897b39113324be5c4",
+        "android_client_info": {
+          "package_name": "com.example.appsibi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMrTiGkl1fvV38JWV6koxmJjy5QqiuEvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61999856013:android:f45c3d8c54b8dc004be5c4",
+        "android_client_info": {
+          "package_name": "com.example.submi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMrTiGkl1fvV38JWV6koxmJjy5QqiuEvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

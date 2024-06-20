@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SIBI.ly</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="daftar">Daftar</string>
+    <string name="Game">Game</string>
+    <string name="Taks">Taks</string>
+    <string name="Isyrat">Isyarat</string>
+    <string name="Add">Add</string>
+    <string name="Kamus">Kamus</string>
+    <string name="Forum">Forum</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Camera</string>
+    <string name="title_notifications">Profile</string>
+    <string name="belum_punya_akun_daftar">belum_punya_akun_daftar</string>
+</resources>
